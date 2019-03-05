@@ -4,3 +4,11 @@ Bike sharing service analysis is a project based on the data that is gathered fo
 research. In this project, there were two objectives,
 1. The environmental factors which affect the bike hiring count per day the most.
 2. Forecasting the bike hiring count per day.
+
+A tableau report is also created to resolve following research questions:
+•	Effects of weather on the bike sharing count.
+•	Environmental factors affecting the bike sharing count.
+•	Bikes rented by week, day and hour
+•	Most popular rental hours.
+
+The entire analysis has been visualized in the form of several Dashboards and have incorporated in a story.
