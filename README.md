@@ -35,7 +35,7 @@ Effects of weather on the bike sharing count:
 
 Forecasting the bike hiring count:
 
-![forecast](Demo/forecast.PNG)
+![forecast](Demo/forecast.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
